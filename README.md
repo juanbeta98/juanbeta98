@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Juan Betancourt</h1>
 <h3 align="center">An industrial engineering student at Universidad de los Andes, Colombia</h3>
 
-- 🔭 I’m currently working on **various research projects on various OR contexts**
+- 🔭 I’m currently working on **various research projects in OR contexts**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
