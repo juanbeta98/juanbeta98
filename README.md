@@ -2,6 +2,7 @@
 <h3 align="center">An industrial engineering master's student at Universidad de los Andes, Colombia. </h3>
 
 - 🔭 I’m currently working on **various research projects in OR contexts**
+- 🤓 Curious and passionate to learn about optimization, machine learning, computer science and any other interesting and relevant subjects
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
