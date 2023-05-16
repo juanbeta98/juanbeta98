@@ -1,6 +1,6 @@
 # 🔭 Curious and passionate to learn about optimization, machine learning, computer science and any other interesting and relevant subjects!!!
 <div align="center">
-<a href="https://github.com/MantiMantilla/MantiMantilla.github.io">
+<a href="https://github.com/juanbeta98/juanbeta98.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=juanbeta98&repo=juanbeta98.github.io&theme=radical" />
 </a>
 <a href="https://juanbeta98.github.io/">
